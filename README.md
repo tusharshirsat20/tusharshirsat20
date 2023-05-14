@@ -3,7 +3,7 @@
 	
 </div><h1 class="page-title">Data Analyst</h1></header><div class="page-body">
 <div id="ecd5ffbc-9d8f-4b1a-9f36-0dd6c002dbeb" class="column-list"><div id="c58b61f2-24cd-443b-a31c-cf10abf5357d" style="width:56.25%" class="column">
-<em>Hi there!! I am Tushar. I enjoy working with data and loves learning and exploring new skills. My goal is to help companies analyze trends to make better business decisions.</em><p id="21cf9171-7eac-43f6-8394-f5a8ade49725" class="">
+<em>Hi there<span class="icon">👋. </span>I am Tushar. I enjoy working with data and love learning and exploring new skills. My goal is to help companies analyze trends to make better business decisions.</em><p id="21cf9171-7eac-43f6-8394-f5a8ade49725" class="">
 	
 <!-- <blockquote id="1a76e9da-e25c-4f31-9d53-43102a6230be"class="">  </blockquote> --> 	
 </p><p id="3fff95c0-f9c8-4468-ab98-3f39aa08e95a" class="">
