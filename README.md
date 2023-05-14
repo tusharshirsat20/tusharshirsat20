@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Tushar Shirsat</title><style>
+
 /* cspell:disable-file */
 /* webkit printing magic: print all background colors */
 html {
@@ -667,6 +667,8 @@ blockquote {
 .checkbox-off {
 	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
 }
+	
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Tushar Shirsat</title><style>
 	
 </style></head><body><article id="10db03c3-f72e-4227-beab-fc6048e79346" class="page sans"><header><img class="page-cover-image" src="https://images.unsplash.com/photo-1498049860654-af1a5c566876?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb" style="object-position:center 50%"/><div class="page-header-icon page-header-icon-with-cover"><span class="icon">👨🏿‍💻</span></div><h1 class="page-title">Tushar Shirsat</h1></header><div class="page-body"><h1 id="bd28f2c6-a289-4b59-bb9b-b8cfa49ba7b0" class="">Data Analyst | Computer Engineer</h1><div id="ecd5ffbc-9d8f-4b1a-9f36-0dd6c002dbeb" class="column-list"><div id="c58b61f2-24cd-443b-a31c-cf10abf5357d" style="width:56.25%" class="column"><blockquote id="1a76e9da-e25c-4f31-9d53-43102a6230be" class=""><em>My goal is to help companies analyze trends to make better business decisions. Data passionate, continuous learning and curious soul.</em></blockquote><p id="21cf9171-7eac-43f6-8394-f5a8ade49725" class="">
 </p><p id="3fff95c0-f9c8-4468-ab98-3f39aa08e95a" class="">
