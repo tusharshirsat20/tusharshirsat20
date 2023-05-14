@@ -29,7 +29,8 @@
 <p id="2e3770fd-8fdd-4254-bc46-1dddab7afc7c" class="">	
 ● Constructed reports and visualizations to drive strategic decisions. <!-- </p><p id="f0a37aa9-54e3-495b-8ead-1c32a188f484" class=""> -->
 	
-<br></p><h2 id="e589554f-8f35-4148-bcce-24476e2fe59d" class=""><strong>Certifications</strong></h2><div id="4f4ab918-3af6-4336-ac91-96c14066b721" class="column-list"><div id="37fdb5db-54d9-4a6d-af59-c72da4277345" style="width:50%" class="column">
+<hr id="1e8492c4-ff4a-4af3-a3ac-74eab4a976d2"/>
+</p><h2 id="e589554f-8f35-4148-bcce-24476e2fe59d" class=""><strong>Certifications</strong></h2><div id="4f4ab918-3af6-4336-ac91-96c14066b721" class="column-list"><div id="37fdb5db-54d9-4a6d-af59-c72da4277345" style="width:50%" class="column">
 	
 <figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="7d13afdf-51d5-46cf-8c3e-74abce50ad89">
 <div style="font-size:1.5em"></div>
@@ -40,12 +41,12 @@
 <figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="742a9dd9-d7e1-41bb-abfe-0f06e7c2c8a5"><div style="font-size:1.5em"></div><div style="width:100%"><a href="https://www.hackerrank.com/certificates/99a04509c93d"><span class="icon">🎓</span> HackerRank SQL Certificate</a></div></figure>
 	
 <p id="a5bfa060-bfe3-44e1-bfd8-c90e67563753" class=""></p></div>	
-	
 <div id="34a8f66e-65f8-48de-807a-08c741dcc48f" style="width:50%" class="column">
 	
 <figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="907e68ea-3dd5-4600-b1a1-66154c818129">
 <div style="font-size:1.5em"></div>
 <div style="width:100%"><span class="icon">🎓</span> Google Data Analytics Certification (ongoing)</div></figure></div></div>
-	
-<br><h2 id="aaa57e4f-8452-4e61-815a-9e3cd77bf07a" class="">Education</h2><h3 id="830d55c1-1873-41a2-a326-2d91bb5c6f48" class="">Computer Engineering </h3><p id="822d4b16-4e46-4d3a-aa7d-e3e4df4b1752" class="">MVP’s KBT College of Engineering, Nashik | 2018 - 2022</p><p id="9cd6de07-76f0-4c69-8e66-458199764317" class="">CGPA - 9.2 / 10</p><p id="b75e33fc-4409-46a0-b9ea-6086a371af89" class="">
+
+<hr id="1e8492c4-ff4a-4af3-a3ac-74eab4a976d2"/>
+<h2 id="aaa57e4f-8452-4e61-815a-9e3cd77bf07a" class="">Education</h2><h3 id="830d55c1-1873-41a2-a326-2d91bb5c6f48" class="">Computer Engineering </h3><p id="822d4b16-4e46-4d3a-aa7d-e3e4df4b1752" class="">MVP’s KBT College of Engineering, Nashik | 2018 - 2022</p><p id="9cd6de07-76f0-4c69-8e66-458199764317" class="">CGPA - 9.2 / 10</p><p id="b75e33fc-4409-46a0-b9ea-6086a371af89" class="">
 </p><hr id="952ffeaf-912d-4482-85e9-d268619bd559"/></div></article></body></html>
