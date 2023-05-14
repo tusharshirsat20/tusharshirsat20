@@ -1,7 +1,7 @@
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	
-</div><h1 class="page-title">Tushar Shirsat</h1></header><div class="page-body"><h1 id="bd28f2c6-a289-4b59-bb9b-b8cfa49ba7b0" class="">Data Analyst | Computer Engineer</h1>
+</div><h1 class="page-title">Data Analyst</h1></header><div class="page-body">
 <div id="ecd5ffbc-9d8f-4b1a-9f36-0dd6c002dbeb" class="column-list"><div id="c58b61f2-24cd-443b-a31c-cf10abf5357d" style="width:56.25%" class="column">
 <em>Hi there!! I am Tushar. I enjoy working with data and loves learning and exploring new skills. My goal is to help companies analyze trends to make better business decisions.</em><p id="21cf9171-7eac-43f6-8394-f5a8ade49725" class="">
 	
